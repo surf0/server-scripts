@@ -9,6 +9,9 @@ with open(f'countrynames.json', 'r') as f:
 
 
 def writeSQL(data):
+    # clear file
+    open('countrycodes.sql', 'w').close()
+
     for code, name in data.items():
         sql = f'UPDATE ck_playerrank SET countryCode="{code.lower()}" WHERE country="{name}";\n'
         with open(f'countrycodes.sql', 'a') as f:

@@ -1,0 +1,40 @@
+| Sweden                 |
+| Czechia                |
+| Norway                 |
+| Germany                |
+| The United Kingdom     |
+| Bulgaria               |
+| Poland                 |
+| Belgium                |
+| Austria                |
+| Hungary                |
+| Slovenia               |
+| Turkey                 |
+| Denmark                |
+| Croatia                |
+| Serbia                 |
+| Luxembourg             |
+| Romania                |
+| Italy                  |
+| Malta                  |
+| Albania                |
+| The United States      |
+| Spain                  |
+| Slovakia               |
+| Canada                 |
+| Russia                 |
+| Switzerland            |
+| Pakistan               |
+| India                  |
+| Nepal                  |
+| Israel                 |
+| Portugal               |
+| Ireland                |
+| Finland                |
+| Iceland                |
+| Greenland              |
+| Bosnia and Herzegovina |
+| Algeria                |
+| Australia              |
+| The Netherlands        |
+| France                 |
